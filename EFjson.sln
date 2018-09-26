@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFjson", "EFjson\EFjson.csproj", "{1ACA83F7-B709-49D2-B9EA-2B04D5A0DFE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFjson.Tests", "EFjson.Tests\EFjson.Tests.csproj", "{041B7663-94FC-4AAE-B288-75EC830C4576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ACA83F7-B709-49D2-B9EA-2B04D5A0DFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACA83F7-B709-49D2-B9EA-2B04D5A0DFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACA83F7-B709-49D2-B9EA-2B04D5A0DFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACA83F7-B709-49D2-B9EA-2B04D5A0DFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041B7663-94FC-4AAE-B288-75EC830C4576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041B7663-94FC-4AAE-B288-75EC830C4576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041B7663-94FC-4AAE-B288-75EC830C4576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041B7663-94FC-4AAE-B288-75EC830C4576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB414AE-235F-41B1-936C-F2CC08E9465F}
+	EndGlobalSection
+EndGlobal
